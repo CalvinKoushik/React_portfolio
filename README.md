@@ -1,12 +1,73 @@
-# React + Vite
+# Calvin Koushik - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! This project showcases my skills, projects, and experience as a Full Stack Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About Me
 
-## Expanding the ESLint configuration
+Hi! I'm **Calvin Koushik**, an MCA graduate (2024 batch) and a passionate Full Stack Developer. I enjoy building clean, responsive web applications using modern technologies. This portfolio is a reflection of my journey, skills, and the projects I have worked on.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Portfolio Overview
+
+This portfolio website includes:
+
+- **Home:** Introduction and tech stack highlights  
+- **About:** Personal background, skills, and achievements  
+- **Portfolio:** Showcasing my projects, certificates, and technology stack  
+- **Contact:** Get in touch with me through social media or email  
+
+---
+
+## Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, React Icons, Framer Motion  
+- **Backend:** (If applicable, add backend tech like Node.js, Spring Boot, etc.)  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools
+
+---
+
+## Features
+
+- Responsive and modern UI  
+- Animated components and smooth transitions  
+- Project cards with descriptions and links  
+- Contact form and social media integration
+
+---
+
+## How to Run Locally
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+2.Navigate into the project directory
+
+  ``bash
+      cd portfolio
+
+3.Install dependencies
+
+``bash
+npm install
+
+4.Start the development server
+
+``bash
+npm start
+Open http://localhost:3000 in your browser to view the portfolio.
+
+Contact Me
+Feel free to reach out!
+
+Email: calvinkoushik2002@gmail.com
+
+LinkedIn: http://linkedin.com/in/calvinkoushik
+
+GitHub: github.com/CalvinKoushik
+
+License
+This project is licensed under the MIT License.
+
