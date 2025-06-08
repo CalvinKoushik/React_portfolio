@@ -79,7 +79,7 @@ const About = () => {
           >
             <div className="flex items-center justify-between mb-3">
               <VscCode className="text-4xl bg-amber-50 rounded-full p-1" />
-              <h1 className="text-3xl font-bold">3</h1>
+              <h1 className="text-3xl font-bold">2</h1>
             </div>
             <p className="text-xl font-serif mb-2">Total Projects</p>
             <div className="flex items-center justify-between text-sm text-white">
