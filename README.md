@@ -43,23 +43,22 @@ This portfolio website includes:
 1. Clone this repository  
    ```bash
    git clone https://github.com/yourusername/portfolio.git
-2.Navigate into the project directory
+2. Navigate into the project directory
 
   ``bash
       cd portfolio
-
 3.Install dependencies
 
-``bash
-npm install
+   ``bash
+      npm install
 
 4.Start the development server
 
-``bash
-npm start
-Open http://localhost:3000 in your browser to view the portfolio.
+   ``bash
+      npm start
+      Open http://localhost:3000 in your browser to view the portfolio.
 
-Contact Me
+Contact Me:
 Feel free to reach out!
 
 Email: calvinkoushik2002@gmail.com
