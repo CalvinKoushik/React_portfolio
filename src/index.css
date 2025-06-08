@@ -1,0 +1,41 @@
+@import "tailwindcss";  
+
+.text-stroke {
+  -webkit-text-stroke: 1px #a855f7; /* Purple-500 */
+  color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+/* index.css */
+:root {
+  --skyblue: #a5dcf4;
+  --mintgreen: #b6dcce;
+  --softindigo: #8aa0e5;
+  --tealgreen: #8cd0bf;
+  --royalblue: #3b75d8;
+  --oceanblue: #3594b6;
+}
+
+.text-skybluee {
+  background-color: var(--skyblue);
+}
+.text-royalblue {
+  color: var(--royalblue);
+}
+.text-mintgreen{
+  color: var(--mintgreen);
+}
+.text-softindigo{
+  color: var(--softindigo);
+}
+.text-tealgreen{
+  color: var(--tealgreen);
+}
+.text-oceanblue{
+  color: var(--oceanblue);
+}
+.text-skyblue {
+  color: var(--skyblue);
+}
